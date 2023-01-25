@@ -75,6 +75,16 @@
   border-radius: 50%;
 }
 
+.accordion-item {
+  margin: 20px 0 !important;
+  border: 1px solid lightgray !important;
+  border-radius: 5px;
+}
+
+.ask-content img {
+  width: 100%;
+}
+/* media query start  */
 @media screen and (max-width: 762px) {
   .carousel-item {
     height: 480px;
