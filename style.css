@@ -128,6 +128,22 @@
 }
 /* contact us end  */
 
+/* footer start  */
+footer {
+  background: #111111;
+  padding: 50px 10px;
+}
+.footer-item {
+  margin-bottom: 10px;
+}
+.footer-item h3 {
+  color: white;
+}
+.footer-item p,
+.footer-item li {
+  color: rgb(141, 133, 133);
+}
+/* footer end  */
 /* media query start  */
 @media screen and (max-width: 762px) {
   .carousel-item {
