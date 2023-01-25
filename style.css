@@ -10,7 +10,7 @@
 .cover-area {
   background-image: url("images/banner.png");
   background-repeat: no-repeat;
-  /* height: 500px; */
+  height: 500px;
   background-size: cover;
 }
 
@@ -30,6 +30,7 @@
 
 .search-area input {
   display: inline-block;
+  padding: 10px ;
 }
 
 .search-area button {
@@ -37,7 +38,7 @@
   border: none;
   outline: none;
   color: white;
-  padding: 7px 26px;
+  padding: 10px 26px;
   border-radius: 5px;
 }
 
