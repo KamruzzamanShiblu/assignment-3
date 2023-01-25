@@ -84,6 +84,50 @@
 .ask-content img {
   width: 100%;
 }
+
+/* contact us start  */
+.contact-inner-common {
+  margin-bottom: 20px;
+}
+
+.inner-items-contact-way {
+  border: 1px solid lightgray;
+  padding: 10px;
+  border-radius: 5px;
+  margin: 5px 0;
+  text-align: center;
+  background: #f3f3f3;
+}
+
+.inner-items-contact-way img {
+  margin-bottom: 8px;
+}
+
+.form-area input,
+.form-area textarea {
+  border: none;
+  outline: none;
+  background: #f3f3f3;
+  display: block;
+  padding: 15px;
+  margin-bottom: 20px;
+  box-shadow: 1px 1px 8px rgb(197, 191, 191);
+  width: 98%;
+  border-radius: 5px;
+}
+
+.send-msg-btn {
+  width: 98%;
+  border: none;
+  outline: none;
+  padding: 10px;
+  background: #b68c5a;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+}
+/* contact us end  */
+
 /* media query start  */
 @media screen and (max-width: 762px) {
   .carousel-item {
